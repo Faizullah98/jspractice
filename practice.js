@@ -1,1 +1,1 @@
-alert("hellow js")
+document.getElementById("demo").innerHTML= "Hello";
