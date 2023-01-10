@@ -18,3 +18,6 @@ let ans2 = ans1.slice(7);
 let ans3 = ans1.substring(7);
 console.log(ans2);
 console.log("I am ans 3 "+ ans3);
+
+let x = BigInt(99999999);
+alert(typeof x);
